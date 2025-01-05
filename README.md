@@ -53,11 +53,15 @@ Full subractor
 
 
 **Program:**
+
  Full adder
- ![image](https://github.com/user-attachments/assets/a7470cd3-ac0e-4333-af3d-cee3b0f05e68)
+ 
+ ![image](https://github.com/user-attachments/assets/982a5aef-b7e8-4932-b61a-4a1293915f6d)
+
 
  Full subtractor
- ![image](https://github.com/user-attachments/assets/5d78a55b-80d6-45de-af6c-053b09f0a273)
+
+ ![image](https://github.com/user-attachments/assets/01b1c045-5ccf-4e52-95e9-f5fd9552d1ad)
 
 
 Developed by: M RESHIKA RegisterNumber: 24011491
